@@ -1,0 +1,24 @@
+<?xml  version="1.0" encoding="WINDOWS-1252"?>
+<dope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dsf.xsd">
+
+<commonInfo>
+
+<dopeVersion>
+
+<releaseId>4</releaseId>
+<buildId>8</buildId>
+<fixLevel>8</fixLevel>
+<releaseDate>2016-01-26</releaseDate></dopeVersion></commonInfo>
+<data dataSorted="no" dbEdition="223" dbtype="DRP" dopeUser="MLE" locale="de_DE" osUser="Marco" timestamp="2019-07-27 18:02:37 MESZ" version="1.12">
+
+<stencil allowElementsFrom="allprojects" allowIndividualText="no" allowOnlinePrint="yes" allowStencilasChildren="yes" asfCallModeForDCP="start" asfCallModeForPDP="switch" asfCallModeForPVP="switch" DCPName="" id="DAVE_DVL2" isKeepTextsCurrent="no" numberOfCopiesInBatch="0" PDPName="" printFormat="" PVPName="" removeDoubleParameters="no" suppressParagraphSelection="no" visibility="VISIBLE">
+
+<meta author="DAVE" changeDescription="" creationDate="10-11-2018 19:33:32" description="DAVE" helpsetID="" logicalVersion="-1" migrationStage="" modificationDate="24-02-2019 12:27:53" modificationUser="ADMIN" owner="DE_AD_ZZ" productionState="10" protectionCode="0" referenceDate="10-11-2018" releaseDate="01-01-1800 00:00:00" releaseName="DAVE" scope="public" uuid="45acc3b077a14b5ab02046565150b4b3" validFrom="10-11-2018" validTo="31-12-2099" version="-1"/> 
+<stencilentries>
+
+<stencilentry description="DAVE" editable="deny" isMandatory="no" isPreselected="yes" refid="DAVE_TDV1" type="stencil"/> 
+<stencilentry description="DAVE" editable="deny" isMandatory="no" isPreselected="yes" refid="DAVE_TDV2" type="stencil"/> 
+<stencilentry description="DAVE" editable="deny" isMandatory="no" isPreselected="yes" refid="DAVE_TDV3" type="stencil"/> 
+<stencilentry description="DAVE" editable="permit" isMandatory="no" isPreselected="yes" refid="DAVE_TBS1" type="paragraph"/> 
+<stencilentry description="DAVE" editable="permit" isMandatory="no" isPreselected="yes" refid="DAVE_TBS2" type="paragraph"/> 
+<stencilentry description="DAVE" editable="permit" isMandatory="no" isPreselected="yes" refid="DAVE_TBS3" type="paragraph"/> </stencilentries></stencil></data></dope>
