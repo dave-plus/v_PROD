@@ -1,0 +1,36 @@
+<?xml  version="1.0" encoding="WINDOWS-1252"?>
+<dope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dsf.xsd">
+
+<commonInfo>
+
+<dopeVersion>
+
+<releaseId>4</releaseId>
+<buildId>8</buildId>
+<fixLevel>8</fixLevel>
+<releaseDate>2016-01-26</releaseDate></dopeVersion></commonInfo>
+<data dataSorted="no" dbEdition="223" dbtype="DRP" dopeUser="MLE" locale="de_DE" osUser="Marco" timestamp="2019-07-27 18:02:39 MESZ" version="1.12">
+
+<paragraph alias="" allowMultipleUsage="no" editable="permit" editMode="editor" id="DAVE_TBS10" showTitle="no" visibility="VISIBLE">
+
+<meta author="DAVE" changeDescription="" creationDate="10-11-2018 19:35:23" description="DAVE" helpsetID="" logicalVersion="-1" migrationStage="" modificationDate="10-11-2018 19:35:23" modificationUser="DAVE" owner="DE_AD_ZZ" productionState="10" protectionCode="0" referenceDate="10-11-2018" releaseDate="01-01-1800 00:00:00" releaseName="DAVE" scope="public" subtype="TXT" uuid="b9e5b9c82d2b4842b83001f4edffe163" validFrom="10-11-2018" validTo="31-12-2099" version="-1"/> 
+<textcontent>.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+</textcontent></paragraph></data></dope>
